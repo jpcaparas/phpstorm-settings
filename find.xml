@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'public'" />
-    <option name="defaultScopeName" value="Project 'public'" />
-    <option name="SEARCH_SCOPE" value="Project 'public'" />
+    <option name="customScope" value="File '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass/molecule/_hero.scss - [animates]'" />
+    <option name="defaultScopeName" value="File '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass/molecule/_hero.scss - [animates]'" />
+    <option name="SEARCH_SCOPE" value="File '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass/molecule/_hero.scss - [animates]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
