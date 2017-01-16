@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
     <option name="defaultScopeName" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,9 +16,9 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.php</mask>
       <mask>*.sass</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
