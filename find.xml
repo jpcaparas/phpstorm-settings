@@ -3,7 +3,9 @@
     <option name="customScope" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
     <option name="defaultScopeName" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
