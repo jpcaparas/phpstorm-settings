@@ -19,5 +19,24 @@
       <option name="workingDir" value="$ContentRoot$" />
       <envs />
     </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="katana build --force" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="md" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Markdown" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="php" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$USER_HOME$/Repos/pixelfusion/developer-docs" />
+      <envs />
+    </TaskOptions>
   </component>
 </application>
