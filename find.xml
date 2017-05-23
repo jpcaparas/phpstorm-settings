@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
-    <option name="defaultScopeName" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../animates-cms/addons/animates_cms/pixelfusion/vetcaregroup-theme/resources/assets/sass - [animates]'" />
+    <option name="customScope" value="File '.../app/Models/User.php - [themindlab]'" />
+    <option name="defaultScopeName" value="File '.../app/Models/User.php - [themindlab]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/Models/User.php - [themindlab]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
