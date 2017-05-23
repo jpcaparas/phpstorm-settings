@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Services/UploadService.php - [themindlab]'" />
-    <option name="defaultScopeName" value="File '.../app/Services/UploadService.php - [themindlab]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Services/UploadService.php - [themindlab]'" />
+    <option name="customScope" value="File '.../app/ApiIntegration/AWS.php - [themindlab]'" />
+    <option name="defaultScopeName" value="File '.../app/ApiIntegration/AWS.php - [themindlab]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/ApiIntegration/AWS.php - [themindlab]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
