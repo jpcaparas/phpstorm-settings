@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/Http/Controllers/Admin/TagController.php - [themindlab]'" />
-    <option name="defaultScopeName" value="File '.../app/Http/Controllers/Admin/TagController.php - [themindlab]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/Http/Controllers/Admin/TagController.php - [themindlab]'" />
+    <option name="customScope" value="File '.../project/app/src/Mindlab/Server/EventServer.php - [mindlab]'" />
+    <option name="defaultScopeName" value="File '.../project/app/src/Mindlab/Server/EventServer.php - [mindlab]'" />
+    <option name="SEARCH_SCOPE" value="File '.../project/app/src/Mindlab/Server/EventServer.php - [mindlab]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
