@@ -10,6 +10,7 @@
       <mapping pattern="tracking" type="PLAIN_TEXT" />
       <mapping pattern="datamine_rsa" type="PLAIN_TEXT" />
       <mapping pattern="the_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="jpcaparas_pixelfusion_rsa" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
