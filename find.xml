@@ -24,11 +24,13 @@
       <mask>&amp;.</mask>
       <mask>&amp;.ph</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.tw</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>*.twi</mask>
       <mask>*.twig</mask>
     </recentFileMasks>
   </component>
